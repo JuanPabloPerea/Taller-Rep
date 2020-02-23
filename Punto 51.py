@@ -21,14 +21,3 @@ for i in range(fila):
     for j in range(columna):
         print("%d " % (matriz[i][j]), end = "")
     print("")
-
-
-    
-
-    
-
-
-
-
-    
-
