@@ -5,11 +5,3 @@ for i in range (11):
         num.append(random.randint(1,15))
 maximo = max (num)
 print("la posicion del maximo valor es: "+str(num.index(maximo)))
-    
-    
-    
-
-
-
-    
-
