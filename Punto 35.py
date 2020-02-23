@@ -7,7 +7,3 @@ def factorial(n):
         n = n-1
     return fac
 print (factorial(n))
-        
-
-
-
