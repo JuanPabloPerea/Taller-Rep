@@ -10,13 +10,3 @@ Hecho por Juan Pablo Perea Hernandez 2016202074
 <br/>Ejercicio 51: https://github.com/JuanPabloPerea/Taller-Rep/blob/master/Punto%2051.py
 <br/>Ejercicio 56: https://github.com/JuanPabloPerea/Taller-Rep/blob/master/Punto%2056.py
 <br/>Ejercicio 62: https://github.com/JuanPabloPerea/Taller-Rep/blob/master/Punto%2062.py
-<br/>Ejercicio xx:
-<br/>Ejercicio xx:
-<br/>Ejercicio xx:
-<br/>Ejercicio xx:
-<br/>Ejercicio xx:
-<br/>Ejercicio xx:
-<br/>Ejercicio xx:
-<br/>Ejercicio xx:
-<br/>Ejercicio xx:
-<br/>Ejercicio xx:
